@@ -10,6 +10,8 @@ Nathan Horder
 
 ## Software used
 Python 3.15.0
+Juypter VS Code Extension
+
 GCC Complier 15.2.0
 
 ## Legal Stuff
